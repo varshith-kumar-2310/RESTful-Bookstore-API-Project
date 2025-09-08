@@ -11,7 +11,8 @@
   - [Authors](#authors)  
   - [Books](#books)  
 - [Swagger UI](#swagger-ui)  
-- [Curl Examples](#curl-examples)  
+- [Curl Examples](#curl-examples)
+- [Project Report](#project-report)
 - [Conclusion](#conclusion)  
 
 ---
@@ -217,4 +218,7 @@ curl -X DELETE "http://localhost:8080/authors/1"
 Conclusion
 The RESTful Bookstore API provides a robust, maintainable backend using Spring Boot. It supports filtering, pagination, sorting, and centralized exception handling, with Swagger UI making testing and documentation effortless. This foundation can be extended with external database support, authentication, and deployment.
 
+## Project Report
+
+You can download or view the complete project report [here](./RESTful Bookstore API.pdf).
 
