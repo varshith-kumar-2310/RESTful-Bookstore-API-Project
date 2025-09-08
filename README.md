@@ -74,7 +74,7 @@ This project demonstrates the design and implementation of a **Spring Boot RESTf
 ---
 ## Project Report
 
-You can download or view the complete project report [here](./bookstore-api/RESTful Bookstore API.pdf).
+You can download or view the complete project report [here](./bookstore-api/RESTful_Bookstore_API.pdf).
 
 ---
 ## Getting Started
